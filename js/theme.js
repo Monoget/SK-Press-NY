@@ -1,9 +1,7 @@
 /**
- * Printogram
  *
  * This file contains all template JS functions
- *
- * @package Printogram
+
 --------------------------------------------------------------
                    Contents
 --------------------------------------------------------------
